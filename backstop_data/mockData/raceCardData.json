@@ -1,0 +1,1278 @@
+{
+    "allowedWinBetTypes": [
+      {
+        "marketTypeCode": "WIN",
+        "betDetailTypeCode": 12,
+        "dividendTypeCode": "MIDDIV",
+        "isWinPlaceAllowed": true,
+        "isMultiAllowed": true,
+        "dividendTypeInfo": ""
+      }
+    ],
+    "allowedPlaceBetTypes": [
+      {
+        "marketTypeCode": "PLC",
+        "betDetailTypeCode": 11,
+        "dividendTypeCode": "MIDDIV",
+        "isWinPlaceAllowed": false,
+        "isMultiAllowed": true,
+        "dividendTypeInfo": ""
+      }
+    ],
+    "exoticAllowedDividendTypes": {
+      "1": [
+        "VIC"
+      ],
+      "2": [
+        "VIC"
+      ],
+      "3": [
+        "VIC"
+      ],
+      "4": [
+        "VIC"
+      ]
+    },
+    "outcomes": [
+      {
+        "outcomeId": 1,
+        "outcomeName": "Caesar Moon",
+        "fixedPrices": [
+          {
+            "marketTypeCode": "PLC",
+            "price": 2.10000000,
+            "points": 0.00,
+            "fixedMarketId": 45714220,
+            "openPrice": null,
+            "currentFluc": null,
+            "currentFluc1": null,
+            "currentFluc2": null,
+            "isCashoutAllowed": false,
+            "flucs": null
+          },
+          {
+            "marketTypeCode": "WIN",
+            "price": 8.00000000,
+            "points": 0.00,
+            "fixedMarketId": 45714230,
+            "openPrice": 12.00000000,
+            "currentFluc": 8.00000000,
+            "currentFluc1": 7.50000000,
+            "currentFluc2": 8.00000000,
+            "isCashoutAllowed": true,
+            "flucs": [
+              {
+                "offset": 22,
+                "price": 12.00
+              },
+              {
+                "offset": 15,
+                "price": 12.00
+              },
+              {
+                "offset": 14,
+                "price": 13.00
+              },
+              {
+                "offset": 13,
+                "price": 12.00
+              },
+              {
+                "offset": 12,
+                "price": 11.00
+              },
+              {
+                "offset": 11,
+                "price": 12.00
+              },
+              {
+                "offset": 10,
+                "price": 11.00
+              },
+              {
+                "offset": 9,
+                "price": 10.00
+              },
+              {
+                "offset": 8,
+                "price": 11.00
+              },
+              {
+                "offset": 7,
+                "price": 10.00
+              },
+              {
+                "offset": 6,
+                "price": 9.50
+              },
+              {
+                "offset": 5,
+                "price": 9.00
+              },
+              {
+                "offset": 4,
+                "price": 8.50
+              },
+              {
+                "offset": 3,
+                "price": 8.00
+              },
+              {
+                "offset": 2,
+                "price": 7.50
+              },
+              {
+                "offset": 1,
+                "price": 8.00
+              }
+            ]
+          }
+        ],
+        "totePlacePrices": [
+          {
+            "marketTypeCode": "PLC",
+            "dividendTypeCode": "MIDDIV",
+            "price": 2.20000000,
+            "fixedMarketId": 0,
+            "isWinPlaceAllowed": false
+          }
+        ],
+        "toteWinPrices": [
+          {
+            "marketTypeCode": "WIN",
+            "dividendTypeCode": "MIDDIV",
+            "price": 7.40000000,
+            "fixedMarketId": 0,
+            "isWinPlaceAllowed": true
+          }
+        ],
+        "barrierBox": 1,
+        "trainer": "Srecko Stupin",
+        "jockeyDriver": "Srecko Stupin",
+        "shortForm": "48s8784623",
+        "weight": 0.00,
+        "scratched": false,
+        "rating": ""
+      },
+      {
+        "outcomeId": 2,
+        "outcomeName": "Sharkbite Alto",
+        "fixedPrices": [
+          {
+            "marketTypeCode": "PLC",
+            "price": 3.50000000,
+            "points": 0.00,
+            "fixedMarketId": 45714221,
+            "openPrice": null,
+            "currentFluc": null,
+            "currentFluc1": null,
+            "currentFluc2": null,
+            "isCashoutAllowed": false,
+            "flucs": null
+          },
+          {
+            "marketTypeCode": "WIN",
+            "price": 19.00000000,
+            "points": 0.00,
+            "fixedMarketId": 45714231,
+            "openPrice": 8.50000000,
+            "currentFluc": 19.00000000,
+            "currentFluc1": 18.00000000,
+            "currentFluc2": 17.00000000,
+            "isCashoutAllowed": true,
+            "flucs": [
+              {
+                "offset": 22,
+                "price": 8.50
+              },
+              {
+                "offset": 13,
+                "price": 8.50
+              },
+              {
+                "offset": 12,
+                "price": 9.00
+              },
+              {
+                "offset": 11,
+                "price": 9.50
+              },
+              {
+                "offset": 10,
+                "price": 10.00
+              },
+              {
+                "offset": 9,
+                "price": 11.00
+              },
+              {
+                "offset": 8,
+                "price": 12.00
+              },
+              {
+                "offset": 7,
+                "price": 13.00
+              },
+              {
+                "offset": 6,
+                "price": 14.00
+              },
+              {
+                "offset": 5,
+                "price": 15.00
+              },
+              {
+                "offset": 4,
+                "price": 16.00
+              },
+              {
+                "offset": 3,
+                "price": 17.00
+              },
+              {
+                "offset": 2,
+                "price": 18.00
+              },
+              {
+                "offset": 1,
+                "price": 19.00
+              }
+            ]
+          }
+        ],
+        "totePlacePrices": [
+          {
+            "marketTypeCode": "PLC",
+            "dividendTypeCode": "MIDDIV",
+            "price": 3.40000000,
+            "fixedMarketId": 0,
+            "isWinPlaceAllowed": false
+          }
+        ],
+        "toteWinPrices": [
+          {
+            "marketTypeCode": "WIN",
+            "dividendTypeCode": "MIDDIV",
+            "price": 14.50000000,
+            "fixedMarketId": 0,
+            "isWinPlaceAllowed": true
+          }
+        ],
+        "barrierBox": 2,
+        "trainer": "Tony Berg",
+        "jockeyDriver": "James Herbertson",
+        "shortForm": "0",
+        "weight": 0.00,
+        "scratched": false,
+        "rating": ""
+      },
+      {
+        "outcomeId": 3,
+        "outcomeName": "Idyllic Princess",
+        "fixedPrices": [
+          {
+            "marketTypeCode": "PLC",
+            "price": 3.50000000,
+            "points": 0.00,
+            "fixedMarketId": 45714222,
+            "openPrice": null,
+            "currentFluc": null,
+            "currentFluc1": null,
+            "currentFluc2": null,
+            "isCashoutAllowed": false,
+            "flucs": null
+          },
+          {
+            "marketTypeCode": "WIN",
+            "price": 18.00000000,
+            "points": 0.00,
+            "fixedMarketId": 45714232,
+            "openPrice": 12.00000000,
+            "currentFluc": 18.00000000,
+            "currentFluc1": 17.00000000,
+            "currentFluc2": 16.00000000,
+            "isCashoutAllowed": true,
+            "flucs": [
+              {
+                "offset": 22,
+                "price": 12.00
+              },
+              {
+                "offset": 7,
+                "price": 12.00
+              },
+              {
+                "offset": 6,
+                "price": 13.00
+              },
+              {
+                "offset": 5,
+                "price": 14.00
+              },
+              {
+                "offset": 4,
+                "price": 15.00
+              },
+              {
+                "offset": 3,
+                "price": 16.00
+              },
+              {
+                "offset": 2,
+                "price": 17.00
+              },
+              {
+                "offset": 1,
+                "price": 18.00
+              }
+            ]
+          }
+        ],
+        "totePlacePrices": [
+          {
+            "marketTypeCode": "PLC",
+            "dividendTypeCode": "MIDDIV",
+            "price": 3.30000000,
+            "fixedMarketId": 0,
+            "isWinPlaceAllowed": false
+          }
+        ],
+        "toteWinPrices": [
+          {
+            "marketTypeCode": "WIN",
+            "dividendTypeCode": "MIDDIV",
+            "price": 14.50000000,
+            "fixedMarketId": 0,
+            "isWinPlaceAllowed": true
+          }
+        ],
+        "barrierBox": 3,
+        "trainer": "Michael Bellman",
+        "jockeyDriver": "Michael Bellman",
+        "shortForm": "s757s",
+        "weight": 0.00,
+        "scratched": false,
+        "rating": ""
+      },
+      {
+        "outcomeId": 4,
+        "outcomeName": "Gone And Forgotten",
+        "fixedPrices": [
+          {
+            "marketTypeCode": "PLC",
+            "price": 1.22000000,
+            "points": 0.00,
+            "fixedMarketId": 45714223,
+            "openPrice": null,
+            "currentFluc": null,
+            "currentFluc1": null,
+            "currentFluc2": null,
+            "isCashoutAllowed": false,
+            "flucs": null
+          },
+          {
+            "marketTypeCode": "WIN",
+            "price": 2.40000000,
+            "points": 0.00,
+            "fixedMarketId": 45714233,
+            "openPrice": 1.95000000,
+            "currentFluc": 2.40000000,
+            "currentFluc1": 2.35000000,
+            "currentFluc2": 2.30000000,
+            "isCashoutAllowed": true,
+            "flucs": [
+              {
+                "offset": 22,
+                "price": 1.95
+              },
+              {
+                "offset": 21,
+                "price": 1.90
+              },
+              {
+                "offset": 20,
+                "price": 1.85
+              },
+              {
+                "offset": 19,
+                "price": 1.82
+              },
+              {
+                "offset": 18,
+                "price": 1.80
+              },
+              {
+                "offset": 17,
+                "price": 1.75
+              },
+              {
+                "offset": 16,
+                "price": 1.80
+              },
+              {
+                "offset": 15,
+                "price": 1.75
+              },
+              {
+                "offset": 14,
+                "price": 1.80
+              },
+              {
+                "offset": 13,
+                "price": 1.82
+              },
+              {
+                "offset": 12,
+                "price": 1.80
+              },
+              {
+                "offset": 11,
+                "price": 1.82
+              },
+              {
+                "offset": 10,
+                "price": 1.85
+              },
+              {
+                "offset": 9,
+                "price": 1.90
+              },
+              {
+                "offset": 8,
+                "price": 1.95
+              },
+              {
+                "offset": 7,
+                "price": 2.00
+              },
+              {
+                "offset": 6,
+                "price": 2.15
+              },
+              {
+                "offset": 5,
+                "price": 2.20
+              },
+              {
+                "offset": 4,
+                "price": 2.25
+              },
+              {
+                "offset": 3,
+                "price": 2.30
+              },
+              {
+                "offset": 2,
+                "price": 2.35
+              },
+              {
+                "offset": 1,
+                "price": 2.40
+              }
+            ]
+          }
+        ],
+        "totePlacePrices": [
+          {
+            "marketTypeCode": "PLC",
+            "dividendTypeCode": "MIDDIV",
+            "price": 1.20000000,
+            "fixedMarketId": 0,
+            "isWinPlaceAllowed": false
+          }
+        ],
+        "toteWinPrices": [
+          {
+            "marketTypeCode": "WIN",
+            "dividendTypeCode": "MIDDIV",
+            "price": 2.10000000,
+            "fixedMarketId": 0,
+            "isWinPlaceAllowed": true
+          }
+        ],
+        "barrierBox": 4,
+        "trainer": "Mark Thompson",
+        "jockeyDriver": "Ellen Tormey",
+        "shortForm": "221164s343",
+        "weight": 0.00,
+        "scratched": false,
+        "rating": ""
+      },
+      {
+        "outcomeId": 5,
+        "outcomeName": "Blissfull Penny",
+        "fixedPrices": [
+          {
+            "marketTypeCode": "PLC",
+            "price": 3.70000000,
+            "points": 0.00,
+            "fixedMarketId": 45714224,
+            "openPrice": null,
+            "currentFluc": null,
+            "currentFluc1": null,
+            "currentFluc2": null,
+            "isCashoutAllowed": false,
+            "flucs": null
+          },
+          {
+            "marketTypeCode": "WIN",
+            "price": 20.00000000,
+            "points": 0.00,
+            "fixedMarketId": 45714234,
+            "openPrice": 8.50000000,
+            "currentFluc": 20.00000000,
+            "currentFluc1": 19.00000000,
+            "currentFluc2": 18.00000000,
+            "isCashoutAllowed": true,
+            "flucs": [
+              {
+                "offset": 22,
+                "price": 8.50
+              },
+              {
+                "offset": 14,
+                "price": 8.50
+              },
+              {
+                "offset": 13,
+                "price": 9.00
+              },
+              {
+                "offset": 12,
+                "price": 9.50
+              },
+              {
+                "offset": 11,
+                "price": 10.00
+              },
+              {
+                "offset": 10,
+                "price": 11.00
+              },
+              {
+                "offset": 9,
+                "price": 12.00
+              },
+              {
+                "offset": 8,
+                "price": 13.00
+              },
+              {
+                "offset": 7,
+                "price": 14.00
+              },
+              {
+                "offset": 6,
+                "price": 15.00
+              },
+              {
+                "offset": 5,
+                "price": 16.00
+              },
+              {
+                "offset": 4,
+                "price": 17.00
+              },
+              {
+                "offset": 3,
+                "price": 18.00
+              },
+              {
+                "offset": 2,
+                "price": 19.00
+              },
+              {
+                "offset": 1,
+                "price": 20.00
+              }
+            ]
+          }
+        ],
+        "totePlacePrices": [
+          {
+            "marketTypeCode": "PLC",
+            "dividendTypeCode": "MIDDIV",
+            "price": 4.00000000,
+            "fixedMarketId": 0,
+            "isWinPlaceAllowed": false
+          }
+        ],
+        "toteWinPrices": [
+          {
+            "marketTypeCode": "WIN",
+            "dividendTypeCode": "MIDDIV",
+            "price": 19.50000000,
+            "fixedMarketId": 0,
+            "isWinPlaceAllowed": true
+          }
+        ],
+        "barrierBox": 5,
+        "trainer": "Noela Krafft",
+        "jockeyDriver": "Alex Ashwood",
+        "shortForm": "5554630599",
+        "weight": 0.00,
+        "scratched": false,
+        "rating": ""
+      },
+      {
+        "outcomeId": 6,
+        "outcomeName": "Four Lonely Nights",
+        "fixedPrices": [
+          {
+            "marketTypeCode": "PLC",
+            "price": 1.65000000,
+            "points": 0.00,
+            "fixedMarketId": 45714225,
+            "openPrice": null,
+            "currentFluc": null,
+            "currentFluc1": null,
+            "currentFluc2": null,
+            "isCashoutAllowed": false,
+            "flucs": null
+          },
+          {
+            "marketTypeCode": "WIN",
+            "price": 6.00000000,
+            "points": 0.00,
+            "fixedMarketId": 45714235,
+            "openPrice": 6.50000000,
+            "currentFluc": 6.00000000,
+            "currentFluc1": 6.50000000,
+            "currentFluc2": 7.00000000,
+            "isCashoutAllowed": true,
+            "flucs": [
+              {
+                "offset": 22,
+                "price": 6.50
+              },
+              {
+                "offset": 11,
+                "price": 6.50
+              },
+              {
+                "offset": 10,
+                "price": 7.00
+              },
+              {
+                "offset": 9,
+                "price": 7.50
+              },
+              {
+                "offset": 8,
+                "price": 8.00
+              },
+              {
+                "offset": 7,
+                "price": 7.50
+              },
+              {
+                "offset": 6,
+                "price": 8.00
+              },
+              {
+                "offset": 5,
+                "price": 8.50
+              },
+              {
+                "offset": 4,
+                "price": 7.50
+              },
+              {
+                "offset": 3,
+                "price": 7.00
+              },
+              {
+                "offset": 2,
+                "price": 6.50
+              },
+              {
+                "offset": 1,
+                "price": 6.00
+              }
+            ]
+          }
+        ],
+        "totePlacePrices": [
+          {
+            "marketTypeCode": "PLC",
+            "dividendTypeCode": "MIDDIV",
+            "price": 1.90000000,
+            "fixedMarketId": 0,
+            "isWinPlaceAllowed": false
+          }
+        ],
+        "toteWinPrices": [
+          {
+            "marketTypeCode": "WIN",
+            "dividendTypeCode": "MIDDIV",
+            "price": 6.60000000,
+            "fixedMarketId": 0,
+            "isWinPlaceAllowed": true
+          }
+        ],
+        "barrierBox": 6,
+        "trainer": "Don Lock",
+        "jockeyDriver": "Chris Alford",
+        "shortForm": "2675682667",
+        "weight": 0.00,
+        "scratched": false,
+        "rating": ""
+      },
+      {
+        "outcomeId": 7,
+        "outcomeName": "Beat The Drums",
+        "fixedPrices": [
+          {
+            "marketTypeCode": "PLC",
+            "price": 0.00000000,
+            "points": 0.00,
+            "fixedMarketId": 45714226,
+            "openPrice": null,
+            "currentFluc": null,
+            "currentFluc1": null,
+            "currentFluc2": null,
+            "isCashoutAllowed": false,
+            "flucs": null
+          },
+          {
+            "marketTypeCode": "WIN",
+            "price": 0.00000000,
+            "points": 0.00,
+            "fixedMarketId": 45714236,
+            "openPrice": null,
+            "currentFluc": null,
+            "currentFluc1": null,
+            "currentFluc2": null,
+            "isCashoutAllowed": true,
+            "flucs": []
+          }
+        ],
+        "totePlacePrices": [
+          {
+            "marketTypeCode": "PLC",
+            "dividendTypeCode": "MIDDIV",
+            "price": 0.00000000,
+            "fixedMarketId": 0,
+            "isWinPlaceAllowed": false
+          }
+        ],
+        "toteWinPrices": [
+          {
+            "marketTypeCode": "WIN",
+            "dividendTypeCode": "MIDDIV",
+            "price": 0.00000000,
+            "fixedMarketId": 0,
+            "isWinPlaceAllowed": true
+          }
+        ],
+        "barrierBox": 7,
+        "trainer": "Sam Barker",
+        "jockeyDriver": "Sam Barker",
+        "shortForm": "322307s877",
+        "weight": 0.00,
+        "scratched": true,
+        "rating": ""
+      },
+      {
+        "outcomeId": 8,
+        "outcomeName": "You Ninety Two",
+        "fixedPrices": [
+          {
+            "marketTypeCode": "PLC",
+            "price": 1.27000000,
+            "points": 0.00,
+            "fixedMarketId": 45714227,
+            "openPrice": null,
+            "currentFluc": null,
+            "currentFluc1": null,
+            "currentFluc2": null,
+            "isCashoutAllowed": false,
+            "flucs": null
+          },
+          {
+            "marketTypeCode": "WIN",
+            "price": 2.90000000,
+            "points": 0.00,
+            "fixedMarketId": 45714237,
+            "openPrice": 4.80000000,
+            "currentFluc": 2.90000000,
+            "currentFluc1": 2.85000000,
+            "currentFluc2": 2.90000000,
+            "isCashoutAllowed": true,
+            "flucs": [
+              {
+                "offset": 22,
+                "price": 4.80
+              },
+              {
+                "offset": 21,
+                "price": 4.50
+              },
+              {
+                "offset": 20,
+                "price": 4.20
+              },
+              {
+                "offset": 19,
+                "price": 4.00
+              },
+              {
+                "offset": 18,
+                "price": 3.90
+              },
+              {
+                "offset": 17,
+                "price": 3.80
+              },
+              {
+                "offset": 16,
+                "price": 3.70
+              },
+              {
+                "offset": 15,
+                "price": 3.80
+              },
+              {
+                "offset": 14,
+                "price": 3.70
+              },
+              {
+                "offset": 13,
+                "price": 3.50
+              },
+              {
+                "offset": 12,
+                "price": 3.70
+              },
+              {
+                "offset": 11,
+                "price": 3.60
+              },
+              {
+                "offset": 10,
+                "price": 3.50
+              },
+              {
+                "offset": 9,
+                "price": 3.40
+              },
+              {
+                "offset": 8,
+                "price": 3.50
+              },
+              {
+                "offset": 7,
+                "price": 3.40
+              },
+              {
+                "offset": 6,
+                "price": 3.30
+              },
+              {
+                "offset": 5,
+                "price": 3.20
+              },
+              {
+                "offset": 4,
+                "price": 3.00
+              },
+              {
+                "offset": 3,
+                "price": 2.90
+              },
+              {
+                "offset": 2,
+                "price": 2.85
+              },
+              {
+                "offset": 1,
+                "price": 2.90
+              }
+            ]
+          }
+        ],
+        "totePlacePrices": [
+          {
+            "marketTypeCode": "PLC",
+            "dividendTypeCode": "MIDDIV",
+            "price": 1.40000000,
+            "fixedMarketId": 0,
+            "isWinPlaceAllowed": false
+          }
+        ],
+        "toteWinPrices": [
+          {
+            "marketTypeCode": "WIN",
+            "dividendTypeCode": "MIDDIV",
+            "price": 4.20000000,
+            "fixedMarketId": 0,
+            "isWinPlaceAllowed": true
+          }
+        ],
+        "barrierBox": 1,
+        "trainer": "Glenn Douglas",
+        "jockeyDriver": "Glenn Douglas",
+        "shortForm": "0234577077",
+        "weight": 0.00,
+        "scratched": false,
+        "rating": ""
+      },
+      {
+        "outcomeId": 9,
+        "outcomeName": "Image Of Courage",
+        "fixedPrices": [
+          {
+            "marketTypeCode": "PLC",
+            "price": 7.50000000,
+            "points": 0.00,
+            "fixedMarketId": 45714228,
+            "openPrice": null,
+            "currentFluc": null,
+            "currentFluc1": null,
+            "currentFluc2": null,
+            "isCashoutAllowed": false,
+            "flucs": null
+          },
+          {
+            "marketTypeCode": "WIN",
+            "price": 61.00000000,
+            "points": 0.00,
+            "fixedMarketId": 45714238,
+            "openPrice": 21.00000000,
+            "currentFluc": 61.00000000,
+            "currentFluc1": 51.00000000,
+            "currentFluc2": 41.00000000,
+            "isCashoutAllowed": true,
+            "flucs": [
+              {
+                "offset": 22,
+                "price": 21.00
+              },
+              {
+                "offset": 8,
+                "price": 21.00
+              },
+              {
+                "offset": 7,
+                "price": 23.00
+              },
+              {
+                "offset": 6,
+                "price": 26.00
+              },
+              {
+                "offset": 5,
+                "price": 29.00
+              },
+              {
+                "offset": 4,
+                "price": 34.00
+              },
+              {
+                "offset": 3,
+                "price": 41.00
+              },
+              {
+                "offset": 2,
+                "price": 51.00
+              },
+              {
+                "offset": 1,
+                "price": 61.00
+              }
+            ]
+          }
+        ],
+        "totePlacePrices": [
+          {
+            "marketTypeCode": "PLC",
+            "dividendTypeCode": "MIDDIV",
+            "price": 6.60000000,
+            "fixedMarketId": 0,
+            "isWinPlaceAllowed": false
+          }
+        ],
+        "toteWinPrices": [
+          {
+            "marketTypeCode": "WIN",
+            "dividendTypeCode": "MIDDIV",
+            "price": 44.00000000,
+            "fixedMarketId": 0,
+            "isWinPlaceAllowed": true
+          }
+        ],
+        "barrierBox": 2,
+        "trainer": "Wayne Gretgrix",
+        "jockeyDriver": "Brent Murphy",
+        "shortForm": "7798550388",
+        "weight": 0.00,
+        "scratched": false,
+        "rating": ""
+      },
+      {
+        "outcomeId": 10,
+        "outcomeName": "Illawong Lively",
+        "fixedPrices": [
+          {
+            "marketTypeCode": "PLC",
+            "price": 7.50000000,
+            "points": 0.00,
+            "fixedMarketId": 45714229,
+            "openPrice": null,
+            "currentFluc": null,
+            "currentFluc1": null,
+            "currentFluc2": null,
+            "isCashoutAllowed": false,
+            "flucs": null
+          },
+          {
+            "marketTypeCode": "WIN",
+            "price": 61.00000000,
+            "points": 0.00,
+            "fixedMarketId": 45714239,
+            "openPrice": 21.00000000,
+            "currentFluc": 61.00000000,
+            "currentFluc1": 51.00000000,
+            "currentFluc2": 41.00000000,
+            "isCashoutAllowed": true,
+            "flucs": [
+              {
+                "offset": 22,
+                "price": 21.00
+              },
+              {
+                "offset": 8,
+                "price": 21.00
+              },
+              {
+                "offset": 7,
+                "price": 23.00
+              },
+              {
+                "offset": 6,
+                "price": 26.00
+              },
+              {
+                "offset": 5,
+                "price": 29.00
+              },
+              {
+                "offset": 4,
+                "price": 34.00
+              },
+              {
+                "offset": 3,
+                "price": 41.00
+              },
+              {
+                "offset": 2,
+                "price": 51.00
+              },
+              {
+                "offset": 1,
+                "price": 61.00
+              }
+            ]
+          }
+        ],
+        "totePlacePrices": [
+          {
+            "marketTypeCode": "PLC",
+            "dividendTypeCode": "MIDDIV",
+            "price": 8.00000000,
+            "fixedMarketId": 0,
+            "isWinPlaceAllowed": false
+          }
+        ],
+        "toteWinPrices": [
+          {
+            "marketTypeCode": "WIN",
+            "dividendTypeCode": "MIDDIV",
+            "price": 50.00000000,
+            "fixedMarketId": 0,
+            "isWinPlaceAllowed": true
+          }
+        ],
+        "barrierBox": 3,
+        "trainer": "Lynne Mercieca",
+        "jockeyDriver": "Jayden Brewin",
+        "shortForm": "1s9s9s6488",
+        "weight": 0.00,
+        "scratched": false,
+        "rating": ""
+      }
+    ],
+    "multiBetExceptions": null,
+    "trackCondition": "Good",
+    "weatherCondition": "FINE",
+    "bettingCloseTime": "2020-07-26T07:29:08Z",
+    "raceDistance": 1650,
+    "isMultiAllowed": true,
+    "meetingRaces": [
+      {
+        "eventId": "6950854",
+        "name": "Tab Long May We Play Pace (1St Heat)",
+        "countryCode": "AUS",
+        "countryName": "Australia",
+        "racingType": 2,
+        "venue": "Bendigo",
+        "raceNumber": 1,
+        "advertisedStartDateTime": "2020-07-26T06:54:00Z",
+        "tradingStatus": 4,
+        "resultStatus": 2,
+        "placing": "2,1,8,4",
+        "hashCode": -1533219993
+      },
+      {
+        "eventId": "6950855",
+        "name": "Southern Cross Office Equipment (Scoe) Pace",
+        "countryCode": "AUS",
+        "countryName": "Australia",
+        "racingType": 2,
+        "venue": "Bendigo",
+        "raceNumber": 2,
+        "advertisedStartDateTime": "2020-07-26T07:29:00Z",
+        "tradingStatus": 1,
+        "resultStatus": 0,
+        "placing": "",
+        "hashCode": 1803006557
+      },
+      {
+        "eventId": "6950856",
+        "name": "Best Accounting & Audit 2Yo Trot",
+        "countryCode": "AUS",
+        "countryName": "Australia",
+        "racingType": 2,
+        "venue": "Bendigo",
+        "raceNumber": 3,
+        "advertisedStartDateTime": "2020-07-26T08:07:00Z",
+        "tradingStatus": 1,
+        "resultStatus": 0,
+        "placing": "",
+        "hashCode": -1549987392
+      },
+      {
+        "eventId": "6950857",
+        "name": "Gold Central Victoria Pace (2Nd Heat)",
+        "countryCode": "AUS",
+        "countryName": "Australia",
+        "racingType": 2,
+        "venue": "Bendigo",
+        "raceNumber": 4,
+        "advertisedStartDateTime": "2020-07-26T08:40:00Z",
+        "tradingStatus": 1,
+        "resultStatus": 0,
+        "placing": "",
+        "hashCode": 1736493754
+      },
+      {
+        "eventId": "6950858",
+        "name": "Oxley Feed Mill 3Yo Pace",
+        "countryCode": "AUS",
+        "countryName": "Australia",
+        "racingType": 2,
+        "venue": "Bendigo",
+        "raceNumber": 5,
+        "advertisedStartDateTime": "2020-07-26T09:13:00Z",
+        "tradingStatus": 1,
+        "resultStatus": 0,
+        "placing": "",
+        "hashCode": -1418806324
+      },
+      {
+        "eventId": "6950859",
+        "name": "Hygain Trot",
+        "countryCode": "AUS",
+        "countryName": "Australia",
+        "racingType": 2,
+        "venue": "Bendigo",
+        "raceNumber": 6,
+        "advertisedStartDateTime": "2020-07-26T09:40:00Z",
+        "tradingStatus": 1,
+        "resultStatus": 0,
+        "placing": "",
+        "hashCode": -1385716949
+      },
+      {
+        "eventId": "6950860",
+        "name": "Share Media 3Yo Pace",
+        "countryCode": "AUS",
+        "countryName": "Australia",
+        "racingType": 2,
+        "venue": "Bendigo",
+        "raceNumber": 7,
+        "advertisedStartDateTime": "2020-07-26T10:13:00Z",
+        "tradingStatus": 1,
+        "resultStatus": 0,
+        "placing": "",
+        "hashCode": -693529362
+      },
+      {
+        "eventId": "6950861",
+        "name": "Race Services Pace",
+        "countryCode": "AUS",
+        "countryName": "Australia",
+        "racingType": 2,
+        "venue": "Bendigo",
+        "raceNumber": 8,
+        "advertisedStartDateTime": "2020-07-26T10:40:00Z",
+        "tradingStatus": 1,
+        "resultStatus": 0,
+        "placing": "",
+        "hashCode": 845199066
+      },
+      {
+        "eventId": "6950862",
+        "name": "Yabby Dam Racing 3Yo Trot",
+        "countryCode": "AUS",
+        "countryName": "Australia",
+        "racingType": 2,
+        "venue": "Bendigo",
+        "raceNumber": 9,
+        "advertisedStartDateTime": "2020-07-26T11:11:00Z",
+        "tradingStatus": 1,
+        "resultStatus": 0,
+        "placing": "",
+        "hashCode": -1652323562
+      }
+    ],
+    "eventMultiples": [
+      {
+        "eventMultipleId": "930974",
+        "betSubTypeCode": "RC-QUADDIE",
+        "betDetailTypeCode": 8,
+        "marketName": "",
+        "dividendTypeCode": "RC-QUADDIE",
+        "raceNumbers": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "hashCode": -593988751
+      }
+    ],
+    "isJockeySilkExist": false,
+    "results": {
+      "winners": [],
+      "exoticDividends": [],
+      "multipleDividends": [],
+      "deductions": [],
+      "raceClass": "",
+      "prizeMoney": null
+    },
+    "tip": null,
+    "masterCategoryName": "Australian Trots",
+    "eventId": "6950855",
+    "name": "Southern Cross Office Equipment (Scoe) Pace",
+    "countryCode": "AUS",
+    "countryName": "Australia",
+    "racingType": 2,
+    "venue": "Bendigo",
+    "raceNumber": 2,
+    "advertisedStartDateTime": "2020-07-26T07:29:00Z",
+    "tradingStatus": 1,
+    "resultStatus": 0,
+    "placing": "",
+    "hashCode": 1017380001
+  }

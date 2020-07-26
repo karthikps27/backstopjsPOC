@@ -1,0 +1,22 @@
+{
+  "name": "backstopjsPOC",
+  "version": "1.0.0",
+  "description": "POC project",
+  "main": "index.js",
+  "scripts": {
+    "test:visual": "rm -rf backstop_data/bitmaps_test && backstop test",
+    "test:visual:reference": "backstop reference",
+    "test:visual:windows": "backstop test",
+    "test:visual:approve": "backstop approve"
+},
+  "keywords": [
+    "backstopjs",
+    "visual",
+    "regression"
+  ],
+  "author": "Karthik Soorya <karthikps27@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "backstopjs": "^5.0.1"
+  }
+}
